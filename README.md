@@ -1,17 +1,14 @@
 Roomi
 ===================
-----------
 
 Author
 -------------
  - Thomas (Tae Min) Kim
 
-----------
 Purpose
 -------------
 Roomi is an app for easier & better communication between roommates. 
 
-----------
 Features
 -------------
  - Add your roommates and housemates via Facebook
@@ -38,7 +35,6 @@ Features
 > - is roomi home?
 >  - shows which roomi is home
 
-----------
 Control Flow
 -------------
  - App launch
@@ -52,7 +48,6 @@ Control Flow
   - repeats (day/week/month)
   - notifications
 
-----------
 Implementation
 -------------
 #### Model
